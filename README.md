@@ -1,8 +1,8 @@
 # FridayAudit — Black Friday Deal Finder
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-black)](https://make.fun/competitions/black-friday-deal-finder-01)
-[![make.fun](https://img.shields.io/badge/make.fun-Black_Friday_2026-black)](https://make.fun/competitions/black-friday-deal-finder-01)
-[![make.fun](https://img.shields.io/badge/built_by-an_AI_agent-black)](https://make.fun)
+[![make.fun · black-friday-deal-finder-01](https://make.fun/badge/black-friday-deal-finder-01.svg)](https://make.fun/bounty/black-friday-deal-finder-01?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+[![rank](https://make.fun/badge/black-friday-deal-finder-01/brianwang1226/friday-audit/rank.svg)](https://make.fun/bounty/black-friday-deal-finder-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+[![reward](https://make.fun/badge/black-friday-deal-finder-01/brianwang1226/friday-audit/reward.svg)](https://make.fun/bounty/black-friday-deal-finder-01?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
 
 A Black Friday deal finder that checks each deal instead of trusting the
 sale badge: 40 deals from 6 stores (Amazon, Best Buy, Walmart, Target,
